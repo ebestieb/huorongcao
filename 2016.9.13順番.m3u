@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="オーストラリア：ABC Radio National", オーストラリア：ABC Radio National
+https://mediaserviceslive.akamaized.net/hls/live/2109448/rnnsw/v0-221.m3u8
+
+#EXTINF:-1 tvg-name="オーストラリア：ABC NewsRadio", オーストラリア：ABC NewsRadio
+https://mediaserviceslive.akamaized.net/hls/live/2109425/newsradio/v0-221.m3u8
+
+#EXTINF:-1 tvg-name="カナダ：CBC Radio One", カナダ：CBC Radio One
+https://cbcradiolive.akamaized.net/hls/live/2037435/ES_R1NSN/adaptive_128/chunklist_ao.m3u8
+
+#EXTINF:-1 tvg-name="アメリカnpr", アメリカnpr
+https://npr-ice.streamguys1.com/live.mp3
+
+#EXTINF:-1 tvg-id="bbc audio 4",bbc audio 4
+https://as-dash-ww-gcomm.live.cf.md.bbci.co.uk/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=96000-276698481.m4s
+
+#EXTINF:-1 tvg-name="NHKr", NHKr
+https://media-tyo.hls.nhkworld.jp/hls/r1/live/1/sig/5a394fc45a7c6d31467789a3768b6f6ae0fb7d21a3d47e8739fb6035a3ce6f0f/a1.m3u8
+
+#EXTINF:-1 tvg-name="NHK world1", NHK world1
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-name="arirang world1", arirang world1
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us",CBS News 24/7 (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RT News", RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-name="pbs kids", pbs kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids (西", PBS Kids (西部配信)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg",ZooMoo Asia (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="abc kids", abc kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-name="ABC Me", ABC Me
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-name="CBeebies HD", CBeebies HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+
+#EXTINF:-1 tvg-name="BabySharkTV1", BabySharkTV1
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BabySharkTV2", BabySharkTV2
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
+
+#EXTINF:-1 tvg-name="BabySharkTV", BabySharkTV
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUwMzI0NzI3LTI1ZGYtNDg3ZC1hNDEzLWVmOGU4MDY5MDc4MSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg5Mjc3MjQ4LCJpYXQiOjE3ODkxOTA4NDgsImp0aSI6ImVhM2Y1ZWQwLWQ4M2QtNDU0OS1hOTgxLWJkYTk0NmQwZWUwZSJ9.04crTPHhqYNmIozbqLAW7dRurb66Gy-Ik5m7QWjHOFE
+
+#EXTINF:-1 tvg-name="HISTORY", HISTORY
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8
+
+#EXTINF:-1 tvg-id="aferica",aferica
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+
+#EXTINF:-1 tvg-name="ミャンマー１", ミャンマー１
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+
+#EXTINF:-1 tvg-name="ベトナム", ベトナム
+https://live.canthotv.vn/live/tv/chunklist_w1355641371.m3u8
+
+#EXTINF:-1 tvg-name="インドネシア２", インドネシア２
+https://hgmtv.com:19360/asthatv/1080p.m3u8
+
+#EXTINF:-1 tvg-name="QVC", QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-name="NHK", NHK
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-name="Shoping channel", Shoping channel
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="MAIN", MAIN
+http://main2.mov3.co/hls/main.m3u8
+
+#EXTINF:-1 tvg-name="MAIN2", MAIN2
+http://main4.mov3.co/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-name="MBC Daejeon (대전 MBC)", MBC Daejeon (대전 MBC)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
