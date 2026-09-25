@@ -1,0 +1,152 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml, http://haru.charandom.blog/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="NHK東京・総合_jp" tvg-logo="https://static.wixstatic.com/media/512769_c8316273489b4a49b3735cb3179859a7~mv2.png", NHK General
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="NHK東京・教育_jp" tvg-logo="https://static.wixstatic.com/media/512769_3d78ec9ba5764b399485ba503d72ec2d~mv2.png",NHK Education
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="日本テレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_529914ac06ed4fc9a9abb5b6e33a67d2~mv2.png",NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="TBS_jp" tvg-logo="https://static.wixstatic.com/media/512769_26cf072a57f348788ac10ed6dc5363f1~mv2.png",TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="フジテレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_8ae9a619c16e4cc195516a865cdd1fa0~mv2.png",Fuji TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="テレビ朝日_jp" tvg-logo="https://static.wixstatic.com/media/512769_d4e8c6d11d054ec580d95267be5b1766~mv2.png",TV Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="テレ東_jp" tvg-logo="https://static.wixstatic.com/media/512769_d1ae71d9db8445618fbb2e0b108e07e4~mv2.png",TV TOKYO
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+#EXTINF:-1 group-title="1.TOKYO（HD）" tvg-id="TOKYO・MX_jp" tvg-logo="https://static.wixstatic.com/media/512769_eecd4980a83245ec831c37aef5a228c3~mv2.png",TOKYO MX1
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="NHK大阪・総合_jp" tvg-logo="https://static.wixstatic.com/media/512769_4735d62255704f6eb5022b4e070d00f9~mv2.png",NHK General (Osaka)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx06
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="サンテレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_c3906af0162d4e5fb8accd3dce8b8f44~mv2.png",SUN TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx07
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="毎日テレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_142c8ecf8e0c457987750b726fc6c9f1~mv2.png",MBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx01
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="ABCテレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_5ab3bad2838442878a9955cf495c318e~mv2.png",ABC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx02
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="テレビ大阪_jp" tvg-logo="https://static.wixstatic.com/media/512769_f19d49211dc54e5cbfa04cc8a97b8631~mv2.png",TV Osaka
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx05
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="関西テレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_f811e603ca174339bcc07d1211ebb8e8~mv2.png",Kansai TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx03
+#EXTINF:-1 group-title="2.KANSAI（HD）" tvg-id="読売テレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_241723c423d340d89d01f434d48e1c14~mv2.png",ytv (Yomi-uri TV)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx04
+
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="NHK・BS_jp" tvg-logo="https://static.wixstatic.com/media/512769_8fc96cbe56eb4495b50adae3a1315c30~mv2.png",NHK BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="NHK・BSP_jp" tvg-logo="https://static.wixstatic.com/media/512769_0b6f022647724e8586b8eacf4205fdca~mv2.png",NHK BSP4K
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="BS日テレ_jp" tvg-logo="https://static.wixstatic.com/media/512769_99c36b1390a740899a0872bc432933ba~mv2.png",BS NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="BS朝日_jp" tvg-logo="https://static.wixstatic.com/media/512769_f9a54b84446e4a6286eb3617eaded197~mv2.png",BS Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="BS-TBS_jp" tvg-logo="https://static.wixstatic.com/media/512769_28a4aab782754fbea692b6877c06d30a~mv2.png",BS-TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="BSテレ東_jp" tvg-logo="https://static.wixstatic.com/media/512769_e5eba745df8a47be900f53eeae23611e~mv2.png",BS-TV TOKYO
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="BSフジ_jp" tvg-logo="https://static.wixstatic.com/media/512769_9b0b5713db1d43e1bb40f3c217b6e763~mv2.png",BS Fuji
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="WOWOWプライム_jp" tvg-logo="https://static.wixstatic.com/media/512769_c7b9f66b739d4f39a0d775f810c30da0~mv2.png",WOWOW Prime
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="WOWOWライブ_jp" tvg-logo="https://static.wixstatic.com/media/512769_4f3d56bdfe5249c8af4b21edc9bef2ab~mv2.png",WOWOW Live
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="WOWOWシネマ_jp" tvg-logo="https://static.wixstatic.com/media/512769_b20d7208e37640eb8dcbaba1d22357cb~mv2.png",WOWOW Cinema
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="BS10プレミアム_jp" tvg-logo="https://static.wixstatic.com/media/512769_f68225bdcd0246318c827f05c512c6f0~mv2.png",BS10 Premium
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="グリーンチャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_a4d4f3cd466245ddabb5b5857be2aab5~mv2.png",Green Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="アニマックス_jp" tvg-logo="https://static.wixstatic.com/media/512769_28c2d7784191490392a9c23231f53dff~mv2.png",BS Animax
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="J-SPORTS-1_jp" tvg-logo="https://static.wixstatic.com/media/512769_d2c63b88afda4290aeb484cf68bea3ae~mv2.png?dn=vivid-epg-jsports1.png",J-Sport 1
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="J-SPORTS-2_jp" tvg-logo="https://static.wixstatic.com/media/512769_4033426bca94483dab199acbd77cc441~mv2.png?dn=vivid-epg-jsports2.png",J-Sport 2
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="J-SPORTS-3_jp" tvg-logo="https://static.wixstatic.com/media/512769_eefd8f134eda4a948e975a77f2e2649c~mv2.png?dn=vivid-epg-jsports3.png",J-Sport 3
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="J-SPORTS-4_jp" tvg-logo="https://static.wixstatic.com/media/512769_5b362b3a2fc44fa2b3c993e767548f94~mv2.png?dn=vivid-epg-jsports4.png",J-Sport 4
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+#EXTINF:-1 group-title="3.BS Satelite" tvg-id="J-COM-BS_jp" tvg-logo="https://static.wixstatic.com/media/512769_fc57f43959e84c8c958a0dc484d3e26b~mv2.png",J:COM BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="TBS-NEWS_jp" tvg-logo="https://static.wixstatic.com/media/512769_233f771d9503475eb210ab96c0f4ba1d~mv2.png",TBS NEWS
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="CNNj_jp" tvg-logo="https://static.wixstatic.com/media/512769_4cdb2ec02383492eabb80c907d70a369~mv2.png",CNNj
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="BBCニュース_jp" tvg-logo="https://static.wixstatic.com/media/512769_3ef83e9e2db34c49a14cc2c01e81ddcb~mv2.png",BBC News
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="MTV_jp" tvg-logo="https://static.wixstatic.com/media/512769_3d6f3e44bac34f93a40190faa29e34f6~mv2.png",MTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_1ed7317e7a12460d8a314977fdaa13d9~mv2.png",Kayo Pops Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="スカイA_jp" tvg-logo="https://static.wixstatic.com/media/512769_1d4320fff9fe43e4ab826adbd56d16f6~mv2.png",Sky A
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://static.wixstatic.com/media/512769_960b18b9deaa4b1c9b669e256398d81e~mv2.png",GAORA SPORTS
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ゴルフネットワーク_jp" tvg-logo="https://static.wixstatic.com/media/512769_21fa58c19d8341ee9b713f65d7faa683~mv2.png",Golf Network
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="日テレジータス_jp" tvg-logo="https://static.wixstatic.com/media/512769_b2ff2a3f4f6146298e1985c0a7ae4c81~mv2.png",NTV G+
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs02
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ムービープラス_jp" tvg-logo="https://static.wixstatic.com/media/512769_cbfdbdd5ef95441fa6692ef4d8c78653~mv2.png",Movie Plus
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="日本映画専門チャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_c3e204ed4e12494ab352e25d55e2d481~mv2.png",Japanese Movie Senmon Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="東映チャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_fa1404f790da4f7893f3ba1632aec2fc~mv2.png",Toei Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="衛星劇場_jp" tvg-logo="https://static.wixstatic.com/media/512769_32262294868a41fd901b0bd6773a0c5e~mv2.png",Eisei Gekijyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="チャンネル銀河_jp" tvg-logo="https://static.wixstatic.com/media/512769_14cda7a44c964cdd9726c5bb838a5db8~mv2.png",Channel Ginga
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ホームドラマチャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_6b030e0cabbf429e9177975f82a3681f~mv2.png",Home Drama Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="LaLa-TV_jp" tvg-logo="https://static.wixstatic.com/media/512769_c8546ad83c5048cab6b3c104ab4c49ca~mv2.png",LaLa TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ファミリー劇場_jp" tvg-logo="https://static.wixstatic.com/media/512769_a205502edcc745f9b08aef7fd76af0c3~mv2.png",Family Gekijyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="キッズステーション_jp" tvg-logo="https://static.wixstatic.com/media/512769_687a364e7dd844dc9cc18e58934cd800~mv2.png",Kids Station
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://static.wixstatic.com/media/512769_7197438c0039427c96414966e2220172~mv2.png",Cartoon Network
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs25
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_73137b366abb4f8585a6ee29399d3eb8~mv2.png",Disney Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ディズニージュニア_jp" tvg-logo="https://static.wixstatic.com/media/512769_c86c53cd839445c486df8a0731383029~mv2.png",Disney Jr.
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_335edb830b5e4291b39d79066110482e~mv2.png",History Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://static.wixstatic.com/media/512769_57b77baacfac42d7af83527c0ddfa22e~mv2.png",National Geographic
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ディスカバリーチャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_4e2e8448348f41beb948c6191ad1de54~mv2.png",Discovery Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="アニマルプラネット_jp" tvg-logo="https://static.wixstatic.com/media/512769_710174507a184af38061b102aac6c21c~mv2.png",Animal Planet
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="釣りビジョン_jp" tvg-logo="https://static.wixstatic.com/media/512769_a2ef8b6c5e1a411b8fe5f57455b9e291~mv2.png",Fishing Vision
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="フジテレビNEXT_jp" tvg-logo="https://static.wixstatic.com/media/512769_b40540fb524d4e6d9db759ab99dc7739~mv2.png",Fuji TV NEXT
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="タカラヅカ・スカイ・ステージ_jp" tvg-logo="https://static.wixstatic.com/media/512769_14acfc68d93243288b6a12e1c42c0120~mv2.png",Takarazuka Sky Stage
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="旅チャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_c1cf5677b3d145e986b60f6b531438fc~mv2.png",Trip Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="時代劇専門チャンネル_jp" tvg-logo="https://static.wixstatic.com/media/512769_adc8eb15f6c445af829b9d504fe547b2~mv2.png",Jidaigeki Senmon Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="スペースシャワーTV_jp" tvg-logo="https://static.wixstatic.com/media/512769_fbfa261d433a4e70b4c3b44dc91141b4~mv2.png",Space Shower TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26
+#EXTINF:-1 group-title="4.CS Satelite" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://static.wixstatic.com/media/512769_de021f73b20b4432bbd00520f4d88bb4~mv2.png",Music Japan TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs06
+
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="NHK東京・総合_jp" tvg-logo="https://static.wixstatic.com/media/512769_c8316273489b4a49b3735cb3179859a7~mv2.png",NHK General（Sub）
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="NHK東京・教育_jp" tvg-logo="https://static.wixstatic.com/media/512769_3d78ec9ba5764b399485ba503d72ec2d~mv2.png",NHK Education (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd02
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="日本テレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_529914ac06ed4fc9a9abb5b6e33a67d2~mv2.png",NTV (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="TBS_jp" tvg-logo="https://static.wixstatic.com/media/512769_26cf072a57f348788ac10ed6dc5363f1~mv2.png",TBS (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="フジテレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_8ae9a619c16e4cc195516a865cdd1fa0~mv2.png",Fuji TV (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="テレビ朝日_jp" tvg-logo="https://static.wixstatic.com/media/512769_d4e8c6d11d054ec580d95267be5b1766~mv2.png",TV Asahi (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="テレ東_jp" tvg-logo="https://static.wixstatic.com/media/512769_d1ae71d9db8445618fbb2e0b108e07e4~mv2.png",TV TOKYO (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd07
+#EXTINF:-1 group-title="5.TOKYO（Sub）" tvg-id="TOKYO・MX_jp" tvg-logo="https://static.wixstatic.com/media/512769_eecd4980a83245ec831c37aef5a228c3~mv2.png",TOKYO MX1 (Sub)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd08
